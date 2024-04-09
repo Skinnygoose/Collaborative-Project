@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyPassionProjectComplete\\Group-project\\Herbal-Garden\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9223C50B-6E36-42FC-BA1E-DCD5AA2E2B1E}|Herbal-Garden\\Herbal-Garden.csproj|c:\\mypassionprojectcomplete\\group-project\\herbal-garden\\herbal-garden\\views\\herbs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9223C50B-6E36-42FC-BA1E-DCD5AA2E2B1E}|Herbal-Garden\\Herbal-Garden.csproj|solutionrelative:herbal-garden\\views\\herbs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223C50B-6E36-42FC-BA1E-DCD5AA2E2B1E}|Herbal-Garden\\Herbal-Garden.csproj|c:\\mypassionprojectcomplete\\group-project\\herbal-garden\\herbal-garden\\controllers\\herbscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9223C50B-6E36-42FC-BA1E-DCD5AA2E2B1E}|Herbal-Garden\\Herbal-Garden.csproj|solutionrelative:herbal-garden\\controllers\\herbscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223C50B-6E36-42FC-BA1E-DCD5AA2E2B1E}|Herbal-Garden\\Herbal-Garden.csproj|c:\\mypassionprojectcomplete\\group-project\\herbal-garden\\herbal-garden\\controllers\\vaporizercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9223C50B-6E36-42FC-BA1E-DCD5AA2E2B1E}|Herbal-Garden\\Herbal-Garden.csproj|solutionrelative:herbal-garden\\controllers\\vaporizercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223C50B-6E36-42FC-BA1E-DCD5AA2E2B1E}|Herbal-Garden\\Herbal-Garden.csproj|c:\\mypassionprojectcomplete\\group-project\\herbal-garden\\herbal-garden\\models\\viewmodels\\detailsherbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9223C50B-6E36-42FC-BA1E-DCD5AA2E2B1E}|Herbal-Garden\\Herbal-Garden.csproj|solutionrelative:herbal-garden\\models\\viewmodels\\detailsherbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\MyPassionProjectComplete\\Group-project\\Herbal-Garden\\Herbal-Garden\\Views\\Herbs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Herbal-Garden\\Views\\Herbs\\Edit.cshtml",
+              "ToolTip": "C:\\MyPassionProjectComplete\\Group-project\\Herbal-Garden\\Herbal-Garden\\Views\\Herbs\\Edit.cshtml",
+              "RelativeToolTip": "Herbal-Garden\\Views\\Herbs\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T10:49:58.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetailsHerbs.cs",
+              "DocumentMoniker": "C:\\MyPassionProjectComplete\\Group-project\\Herbal-Garden\\Herbal-Garden\\Models\\ViewModels\\DetailsHerbs.cs",
+              "RelativeDocumentMoniker": "Herbal-Garden\\Models\\ViewModels\\DetailsHerbs.cs",
+              "ToolTip": "C:\\MyPassionProjectComplete\\Group-project\\Herbal-Garden\\Herbal-Garden\\Models\\ViewModels\\DetailsHerbs.cs",
+              "RelativeToolTip": "Herbal-Garden\\Models\\ViewModels\\DetailsHerbs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:30:15.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VaporizerController.cs",
+              "DocumentMoniker": "C:\\MyPassionProjectComplete\\Group-project\\Herbal-Garden\\Herbal-Garden\\Controllers\\VaporizerController.cs",
+              "RelativeDocumentMoniker": "Herbal-Garden\\Controllers\\VaporizerController.cs",
+              "ToolTip": "C:\\MyPassionProjectComplete\\Group-project\\Herbal-Garden\\Herbal-Garden\\Controllers\\VaporizerController.cs",
+              "RelativeToolTip": "Herbal-Garden\\Controllers\\VaporizerController.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAiwOAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:21:15.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HerbsController.cs",
+              "DocumentMoniker": "C:\\MyPassionProjectComplete\\Group-project\\Herbal-Garden\\Herbal-Garden\\Controllers\\HerbsController.cs",
+              "RelativeDocumentMoniker": "Herbal-Garden\\Controllers\\HerbsController.cs",
+              "ToolTip": "C:\\MyPassionProjectComplete\\Group-project\\Herbal-Garden\\Herbal-Garden\\Controllers\\HerbsController.cs",
+              "RelativeToolTip": "Herbal-Garden\\Controllers\\HerbsController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAYwLkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:20:55.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
